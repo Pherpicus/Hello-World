@@ -1,0 +1,20 @@
+using System
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Thteading.Tasks;
+
+namespace HelloWorld
+{
+ class Program
+ {
+    static void Main(string[] args)
+    {
+      int anser = 10 + 2; //This will make 12
+      Console.WriteLine(anser);
+      Console.WriteLine("Hello World");
+      Console.WriteLine("Hello, my name is Shawn");
+      
+     }
+   }
+}
